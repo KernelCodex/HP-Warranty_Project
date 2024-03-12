@@ -1,0 +1,167 @@
+<div
+    _ngcontent-app-root-c75=""
+    class="info-section ng-tns-c75-0 ng-star-inserted"
+    style=""
+>
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            Coverage type
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            Care Pack
+        </div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            Service type
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            HWM Onsite
+        </div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">Status</div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">Expired</div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            Start date
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            December 14, 2018
+        </div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            End date
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            December 13, 2019
+        </div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            Time Remaining
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            Warranty Expired
+        </div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            Service level
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Std office hrs std office days
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Country Coverage
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                No Specified Restoration Time
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Standard Material Handling
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                No Limitation
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Next available tech resource
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                No Special Coverage
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                No Specified Repair Time
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Standard Configuration
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Standard
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Next Coverage Day
+            </p>
+            <!---->
+        </div>
+    </div>
+    <!---->
+    <div
+        _ngcontent-app-root-c75=""
+        class="info-item ng-tns-c75-0 ng-star-inserted"
+    >
+        <div _ngcontent-app-root-c75="" class="label ng-tns-c75-0">
+            Deliverables
+        </div>
+        <div _ngcontent-app-root-c75="" class="text ng-tns-c75-0">
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Material
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                Onsite Support
+            </p>
+            <p _ngcontent-app-root-c75="" class="ng-tns-c75-0 ng-star-inserted">
+                HW Problem Diagnosis
+            </p>
+            <!---->
+        </div>
+    </div>
+    <!---->
+</div>
+
+<p _ngcontent-app-root-c70="" class="errorTitle">
+    We were unable to match your product based on the information provided
+</p>
+
+<h3 id="modal-heading" class="modal-title">Service unavailable</h3>
+
+<button id="cancelBtn" class="primary-button">Close</button>
+
+<div _ngcontent-app-root-c75="" class="product-info-text ng-tns-c75-0">
+    <h2 _ngcontent-app-root-c75="" class="ng-tns-c75-0">
+        HP LaserJet Enterprise MFP M630f
+    </h2>
+    <div _ngcontent-app-root-c75="" class="serial-product-no ng-tns-c75-0">
+        <p _ngcontent-app-root-c75="" class="ng-tns-c75-0">
+            Serial:
+            <span _ngcontent-app-root-c75="" class="ng-tns-c75-0"
+                >CNBVJDM1P4</span
+            >
+        </p>
+        <p _ngcontent-app-root-c75="" class="ng-tns-c75-0">
+            Product:
+            <span _ngcontent-app-root-c75="" class="ng-tns-c75-0">B3G85A</span>
+        </p>
+    </div>
+    <!---->
+</div>
